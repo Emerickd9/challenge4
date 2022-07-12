@@ -1,5 +1,7 @@
 URL01 [https://github.com/Emerickd9/challenge4](https://github.com/Emerickd9/challenge4)
 
+URL02 Public URL for S3 (http://udapeople-003978e.s3-website-us-east-1.amazonaws.com)
+
 We are archiving this repository because we do not want learners to push personal development to the current repository. If you have any issues or suggestions to make, feel free to:
 - Utilize the https://knowledge.udacity.com/ forum to seek help on content-specific issues.
 - [Submit a support ticket](https://udacity.zendesk.com/hc/en-us/requests/new) along with the link to your forked repository. 
